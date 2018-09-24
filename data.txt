@@ -1,0 +1,3 @@
+Name: Dea
+Age: 28
+Favorite Color: Tosca
